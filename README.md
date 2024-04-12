@@ -1,4 +1,4 @@
-# smart-cctv
+# Border Surveillance System (Smart Cctv)
 
 A Smart Surveillance System using an advanced digital Image processing technique alongside the mix of computer vision and unsupervised machine learning techniques. 
 Abnormal human activity detection has wide applications that span across monitoring in public spaces to personal health rehabilitation. 
