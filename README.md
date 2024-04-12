@@ -1,2 +1,7 @@
-# Border-Surveillance-System-Project
-Developed a real time application i.e. Surveillance System which monitor 24/7 on the restricted area like Border, Bank Locker etc. By using this application we protect a Restricted area more safer, smarter and self sufficient.
+# smart-cctv
+
+A Smart Surveillance System using an advanced digital Image processing technique alongside the mix of computer vision and unsupervised machine learning techniques. 
+Abnormal human activity detection has wide applications that span across monitoring in public spaces to personal health rehabilitation. 
+This principally concentrates on automation of video surveillance in ATM machines and recognize any sort of potential criminal exercises and alert the concerned authorities. 
+
+# Screenshots
